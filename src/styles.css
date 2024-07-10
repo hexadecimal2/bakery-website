@@ -124,7 +124,7 @@ a:hover{
 }
  
 button:hover{
-     background-color: hsl(150, 100%, 60%);;
+     background-color: hsl(150, 100%, 60%);
      cursor: pointer;
 }
  
@@ -133,7 +133,10 @@ button{
     height: 70px;
     margin-top: 50px;
     font-family: 'VCR_OSD_MONO', sans-serif;
-    font-size: 20px
+    font-size: 20px;
+    border-color: hsl(150, 100%, 60%);
+    border-style: solid;
+
 }
 
 header{
