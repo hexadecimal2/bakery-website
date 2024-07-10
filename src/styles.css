@@ -109,6 +109,12 @@ li{
     list-style-position: inside;
 }
 
+a::link{
+
+        color: white
+   
+}
+
 a:visited{
     color: white
 }
