@@ -109,7 +109,7 @@ li{
     list-style-position: inside;
 }
 
-a::link{
+a:link{
 
         color: white
    
